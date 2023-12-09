@@ -1,0 +1,38 @@
+.error{
+    color: #ea1708;
+    font-weight: 400;
+}
+.btn-custom
+{
+    background-color: #5427ce;
+}
+.btn-custom i
+{
+    color: #fff;
+}
+.btn-custom:hover
+{
+    background-color: #7250cd; 
+}
+.small-button{
+    padding: 3px;font-size: 6px;
+}
+
+.custom-filter-div.active .card{
+    background-color:#b10a32 !important;
+}
+.active-vehicle{
+    background: #ececec;
+}
+
+#vehicle_overview_data tbody tr,
+#driver_overview_data tbody tr {
+    height: 45px;
+}
+.project-subtitle
+{
+    color: #fff;
+}
+
+
+/*# sourceMappingURL=custom.min.css.map */
